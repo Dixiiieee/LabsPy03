@@ -118,5 +118,5 @@ print("Total laba adalah      :", untung)
 >- lalu ada perintah : print("Laba bulan ke", i, "Sebesar:", laba). Dengan perintah ini system akan menampilkan tulisan "Laba bulan ke" dilanjut dengan variable i dan tulisan "Sebesar" dilanjut dengan variable laba.
 >- terakhir ada perintah : print("Total laba adalah      :", untung). Dengan perintah ini system akan menampilkan tulisan "Total laba adalah: " diikuti oleh variable untung yang sudah kita masukkan tadi.
 
-Hasil Eksekusi Program
+Hasil Eksekusi Program : 
 ![ayam2](https://user-images.githubusercontent.com/56240134/68086155-47c47280-fe7b-11e9-9b47-8669319ea53c.png)
