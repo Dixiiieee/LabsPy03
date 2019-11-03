@@ -60,7 +60,7 @@ print("Bilangan terbesar adalah", b)
 - print("Bilangan terbesar adalah", b)
 > Keterangan : Ketika nilai a lebih dari 0, maka tampilkan input "masukkan bilangan: ". Ketika nilai a sama dengan 0 maka berenti menampilkan input "masukkan bilangan". Lalu a > b, b = a, akan mengambil nilai a terbesar untuk variable b. 
 
-Hasil Eksekusi Program : 
+Berikut hasil eksekusi program diatas : 
 ![ayam2](https://user-images.githubusercontent.com/56240134/68085478-1ac09180-fe74-11e9-861f-5eba236e72f9.png)
 
 ## Latihan3
@@ -118,5 +118,5 @@ print("Total laba adalah      :", untung)
 >- lalu ada perintah : print("Laba bulan ke", i, "Sebesar:", laba). Dengan perintah ini system akan menampilkan tulisan "Laba bulan ke" dilanjut dengan variable i dan tulisan "Sebesar" dilanjut dengan variable laba.
 >- terakhir ada perintah : print("Total laba adalah      :", untung). Dengan perintah ini system akan menampilkan tulisan "Total laba adalah: " diikuti oleh variable untung yang sudah kita masukkan tadi.
 
-Hasil Eksekusi Program : 
+Berikut hasil eksekusi program diatas : 
 ![ayam2](https://user-images.githubusercontent.com/56240134/68086155-47c47280-fe7b-11e9-9b47-8669319ea53c.png)
